@@ -1,5 +1,5 @@
-# Dashboard-Netflix
-![Dashboard-Covid19](Preview.gif)
+# EDA-Dashboard-Netflix
+![EDA-Dashboard-Netflix](Preview.gif)
 This project is a Exploratory Data Analysis (EDA) and data visualization dashboard developed using Tableau, leveraging a dataset sourced from Kaggle and from API in CSV format and processed in Google Colaboratory. The dashboard provides an intuitive interface for exploring Netflix content, including movies and TV shows. It showcases key insights such as title counts, ratings, release years, and movie durations, enabling users to analyze trends over time. With interactive charts and filters, users can delve into various aspects of Netflix's library, including content types, movie ratings, and the top 10 longest movies. Designed to provide a comprehensive overview of Netflix’s catalog, this dashboard empowers users to gain valuable insights quickly and efficiently. 
 
 ---
@@ -7,6 +7,7 @@ This project is a Exploratory Data Analysis (EDA) and data visualization dashboa
 ## Table of Contents
 
 - [Features](#features)
+- [Data Source](#DataSource)
 - [Usage](#Usage)
 - [Sources](#Sources)
 
@@ -20,6 +21,16 @@ This project is a Exploratory Data Analysis (EDA) and data visualization dashboa
 
 ---
 
+## Data Source
+
+The data for this dashboard is sourced from two primary locations:
+
+- **Netflix API**: Provides real-time updates for the latest content available on Netflix, ensuring the dashboard reflects up-to-the-minute releases, ratings, and other content-related data.
+  
+- **Kaggle Datasets**: Historical data on Netflix content is pulled from publicly available datasets on Kaggle, ensuring that both past and present content are represented accurately in the dashboard. This data is regularly updated to maintain a comprehensive view of Netflix's catalog over time.
+
+---
+
 ## Usage
 - Open the dashboard by navigating to the provided link.
 - Use the filters to type the desired movie and view complete data.
@@ -29,3 +40,4 @@ This project is a Exploratory Data Analysis (EDA) and data visualization dashboa
 ## Sources
 
 - Link [Dashboard](https://public.tableau.com/app/profile/kevin.sutrisna/viz/shared/2MRHKNY5X)
+- Link [Colab](https://public.tableau.com/app/profile/kevin.sutrisna/viz/shared/2MRHKNY5X)
