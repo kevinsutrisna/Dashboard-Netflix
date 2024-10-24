@@ -40,4 +40,4 @@ The data for this dashboard is sourced from two primary locations:
 ## Sources
 
 - Link [Dashboard](https://public.tableau.com/app/profile/kevin.sutrisna/viz/shared/2MRHKNY5X)
-- Link [Colab](https://public.tableau.com/app/profile/kevin.sutrisna/viz/shared/2MRHKNY5X)
+- Link [Colab](https://colab.research.google.com/drive/160YaUiVlYKUkClUTS8wogXRmat3yJ7Gm?usp=sharing)
